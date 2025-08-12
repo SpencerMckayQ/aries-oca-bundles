@@ -1,0 +1,16 @@
+[
+  {
+    "capture_base": "",
+    "type": "aries/overlays/branding/1.0",
+    "digest": "",
+    "logo": "https://showcase-manager-bc-wallet-api-server.trustservices.quartech.com/showcase-manager-tenant/assets/bcbefcab-e1c7-4232-b45d-ee31e62c3d62/file",
+    "background_image_slice": "https://i0.wp.com/www.socalearnosethroat.com/wp-content/uploads/2021/05/banner-home3.jpg?fit=2560%2C1040&ssl=1",
+    "background_image": "https://i0.wp.com/www.socalearnosethroat.com/wp-content/uploads/2021/05/banner-home3.jpg?fit=2560%2C1040&ssl=1",
+    "primary_background_color": "rgb(17, 38, 179)",
+    "secondary_background_color": "rgb(36, 117, 206)",
+    "primary_attribute": "Name",
+    "secondary_attribute": "",
+    "issued_date_attribute": "ISS",
+    "expiry_date_attribute": "EXP"
+  }
+]

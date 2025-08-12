@@ -1,0 +1,20 @@
+[
+  {
+    "id": "TZdSc1K7VBBCLX2JKXPrTN:2:California_mDL:1.0",
+    "org": "Quartech",
+    "name": "California MDL",
+    "desc": "A verifiable credential schema for a California Mobile Driver's License",
+    "type": "schema",
+    "ocabundle": "OCABundles/schema/la-games/california-mdl/OCABundle.json",
+    "shasum": "baed12221463662b0eaa9880cd7cb988f6fe68e235a29aef77d8cb5b0fbc9151"
+  },
+  {
+    "id": "TZdSc1K7VBBCLX2JKXPrTN:2:Metro_ID:1.0",
+    "org": "Quartech",
+    "name": "Metro ID",
+    "desc": "A verifiable credential schema for a California Metro Identification Card",
+    "type": "schema",
+    "ocabundle": "OCABundles/schema/la-games/metro-id/OCABundle.json",
+    "shasum": "986a54298d7042c18578c7de59e726a6ee26572ea83e4bcf1538407b1957562a"
+  }
+]
