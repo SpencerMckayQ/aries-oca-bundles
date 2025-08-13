@@ -67,9 +67,9 @@
         "capture_base": "EKeywQmBaOWe8EYsg8-YBcs3t_5d0Od5a0D9glZACvJl",
         "description": "A credential to identify a holder as a Metro Volunteer",
         "digest": "EMBIxxR1B9_YDbRAoqGAB_O0mmKhx7tFZOtjCeCgoXEe",
-        "issuer": "LA Games 2028",
+        "issuer": "L.A. Games 2028",
         "language": "en",
-        "name": "LA Metro Volunteer",
+        "name": "L.A. Metro Volunteer",
         "type": "spec/overlays/meta/1.0"
       },
       {
