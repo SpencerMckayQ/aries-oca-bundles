@@ -67,9 +67,9 @@
         "capture_base": "EKeywQmBaOWe8EYsg8-YBcs3t_5d0Od5a0D9glZACvJl",
         "description": "A credential to identify a holder as a Metro Volunteer",
         "digest": "EMBIxxR1B9_YDbRAoqGAB_O0mmKhx7tFZOtjCeCgoXEe",
-        "issuer": "California Metro",
+        "issuer": "L.A. Metro",
         "language": "en",
-        "name": "Metro ID",
+        "name": "Metro Volunteer ID",
         "type": "spec/overlays/meta/1.0"
       },
       {
