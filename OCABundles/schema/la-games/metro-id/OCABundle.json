@@ -2,21 +2,23 @@
   {
     "capture_base": {
       "attributes": {
-        "Date": "DateTime",
-        "Given_Name": "Text",
-        "Types": "Text"
+        "Name": "Text",
+        "Role": "Text",
+        "EXP": "DateTime",
+        "ISS": "DateTime"
       },
       "classification": "",
       "digest": "EKeywQmBaOWe8EYsg8-YBcs3t_5d0Od5a0D9glZACvJl",
-      "flagged_attributes": ["Date", "Given_Name", "Types"],
+      "flagged_attributes": ["Role", "EXP", "Name", "ISS"],
       "type": "spec/capture_base/1.0"
     },
     "overlays": [
       {
         "attribute_character_encoding": {
-          "Date": "utf-8",
-          "Given_Name": "utf-8",
-          "Types": "utf-8"
+          "Name": "utf-8",
+          "Role": "utf-8",
+          "EXP": "utf-8",
+          "ISS": "utf-8"
         },
         "capture_base": "EKeywQmBaOWe8EYsg8-YBcs3t_5d0Od5a0D9glZACvJl",
         "default_character_encoding": "utf-8",
@@ -26,9 +28,10 @@
       {
         "attribute_categories": [],
         "attribute_labels": {
-          "Date": "Date",
-          "Given_Name": "Given Name",
-          "Types": "Types"
+          "Name": "Name",
+          "Role": "Role",
+          "EXP": "Expirtation Date",
+          "ISS": "Issue Date"
         },
         "capture_base": "EKeywQmBaOWe8EYsg8-YBcs3t_5d0Od5a0D9glZACvJl",
         "category_labels": {},
@@ -38,9 +41,10 @@
       },
       {
         "attribute_information": {
-          "Date": "Issue date for the credential",
-          "Given_Name": "Given Name of the holder",
-          "Types": "Type of Metro ID"
+          "Name": "Name of the holder",
+          "Role": "Role of the holder",
+          "EXP": "Expiration Date for the Metro ID",
+          "ISS": "Issuance date for the Metro ID"
         },
         "capture_base": "EKeywQmBaOWe8EYsg8-YBcs3t_5d0Od5a0D9glZACvJl",
         "digest": "EAvvkxXRAlNHcIcUZdXOPEamyKOmn6iV6DMnCjilBtGA",
@@ -49,7 +53,8 @@
       },
       {
         "attribute_formats": {
-          "Date": "YYYYMMDD"
+          "EXP": "YYYYMMDD",
+          "ISS": "YYYYMMDD"
         },
         "capture_base": "EKeywQmBaOWe8EYsg8-YBcs3t_5d0Od5a0D9glZACvJl",
         "digest": "EK4KGs_jrFRyA2ZoqpIeN0n-EoCIPVGBwnfG5mhqe_X3",
@@ -57,7 +62,8 @@
       },
       {
         "attribute_standards": {
-          "Date": "urn:iso:std:iso:1989"
+          "EXP": "urn:iso:std:iso:1989",
+          "ISS": "urn:iso:std:iso:1989"
         },
         "capture_base": "EKeywQmBaOWe8EYsg8-YBcs3t_5d0Od5a0D9glZACvJl",
         "digest": "Ec7XFxBuFTumm3S1EgGUcdVJDycjJot6Iz0qDCRMm0D8",
