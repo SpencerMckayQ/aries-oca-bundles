@@ -4,12 +4,13 @@
       "attributes": {
         "Name": "Text",
         "Role": "Text",
+        "Photo": "Image",
         "EXP": "DateTime",
         "ISS": "DateTime"
       },
       "classification": "",
       "digest": "EKeywQmBaOWe8EYsg8-YBcs3t_5d0Od5a0D9glZACvJl",
-      "flagged_attributes": ["Role", "EXP", "Name", "ISS"],
+      "flagged_attributes": ["Role", "EXP", "Name", "ISS", "Photo"],
       "type": "spec/capture_base/1.0"
     },
     "overlays": [
@@ -17,6 +18,7 @@
         "attribute_character_encoding": {
           "Name": "utf-8",
           "Role": "utf-8",
+          "Photo": "base64",
           "EXP": "utf-8",
           "ISS": "utf-8"
         },
@@ -30,7 +32,8 @@
         "attribute_labels": {
           "Name": "Name",
           "Role": "Role",
-          "EXP": "Expirtation Date",
+          "Photo": "Photo",
+          "EXP": "Expiration Date",
           "ISS": "Issue Date"
         },
         "capture_base": "EKeywQmBaOWe8EYsg8-YBcs3t_5d0Od5a0D9glZACvJl",
@@ -43,6 +46,7 @@
         "attribute_information": {
           "Name": "Name of the holder",
           "Role": "Role of the holder",
+          "Photo": "Photo of the holder",
           "EXP": "Expiration Date for the Metro ID",
           "ISS": "Issuance date for the Metro ID"
         },
