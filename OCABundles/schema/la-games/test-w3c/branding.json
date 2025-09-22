@@ -1,0 +1,16 @@
+[
+  {
+    "capture_base": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+    "type": "aries/overlays/branding/1.0",
+    "digest": "Ec7XFxBuFTumm3S1EgGUcdVJDycjJot6Iz0qDCRMm0D8",
+    "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/ayanworks_appreciation_certificate/logo.png",
+    "background_image_slice": "",
+    "background_image": "",
+    "primary_background_color": "rgb(75, 0, 255)",
+    "secondary_background_color": "rgb(182, 55, 214)",
+    "primary_attribute": "name",
+    "secondary_attribute": "",
+    "issued_date_attribute": "",
+    "expiry_date_attribute": ""
+  }
+]
