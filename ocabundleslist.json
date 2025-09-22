@@ -36,7 +36,7 @@
     "shasum": "986a54298d7042c18578c7de59e726a6ee26572ea83e4bcf1538407b1957562a"
   },
   {
-    "id": "w3ctestcredential",
+    "id": "test:w3ctestcredentialtest",
     "org": "Quartech",
     "name": "w3c test credential",
     "desc": "A verifiable credential schema for a California Metro Identification Card",
