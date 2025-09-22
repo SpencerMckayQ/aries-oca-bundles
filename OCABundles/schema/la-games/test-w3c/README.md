@@ -4,6 +4,6 @@ A verifiable credential schema for a California Mobile Driver's License
 
 ## Identifiers
 
-| Identifier                                      | Location     | URL                                                             |
-| ----------------------------------------------- | ------------ | --------------------------------------------------------------- |
-| TZdSc1K7VBBCLX2JKXPrTN:2:california-dmv-mdl:1.5 | bcovrin:test | http://test.bcovrin.vonx.io:3707/tx/BCOVRIN_TEST/domain/2885599 |
+| Identifier        | Location     | URL                                                             |
+| ----------------- | ------------ | --------------------------------------------------------------- |
+| testw3ccredential | bcovrin:test | http://test.bcovrin.vonx.io:3707/tx/BCOVRIN_TEST/domain/2885599 |
