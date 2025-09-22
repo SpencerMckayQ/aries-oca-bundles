@@ -27,7 +27,7 @@
     "path": "OCABundles/schema/la-games/test-mdl/OCABundle.json",
     "sha256": "5a6bf2769cf564570c2cf6370cca0925da61925868783c62977722dce7f9c9cd"
   },
-  "w3ctestcredential": {
+  "test:w3ctestcredential": {
     "path": "OCABundles/schema/la-games/test-w3c/OCABundle.json",
     "sha256": "5a6bf2769cf564570c2cf6370cca0925da61925868783c62977722dce7f9c9cd"
   }
