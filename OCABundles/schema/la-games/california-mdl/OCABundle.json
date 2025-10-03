@@ -3,9 +3,7 @@
     "capture_base": {
       "attributes": {
         "Issued by": "Text",
-        "Data Source": "Text",
         "Name": "Text",
-        "Customer Identifier": "Text",
         "DOB": "DateTime",
         "Photo": "Image",
         "EXP": "DateTime",
@@ -13,25 +11,14 @@
       },
       "classification": "",
       "digest": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
-      "flagged_attributes": [
-        "Issued by",
-        "Customer Identifier",
-        "DOB",
-        "EXP",
-        "Data Source",
-        "ISS",
-        "Name",
-        "Photo"
-      ],
+      "flagged_attributes": ["Issued by", "DOB", "EXP", "ISS", "Name", "Photo"],
       "type": "spec/capture_base/1.0"
     },
     "overlays": [
       {
         "attribute_character_encoding": {
           "Issued by": "utf-8",
-          "Data Source": "utf-8",
           "Name": "utf-8",
-          "Customer Identifier": "utf-8",
           "DOB": "utf-8",
           "EXP": "utf-8",
           "ISS": "utf-8",
@@ -46,9 +33,7 @@
         "attribute_categories": [],
         "attribute_labels": {
           "Issued by": "Issued By",
-          "Data Source": "Data Source",
           "Name": "Name",
-          "Customer Identifier": "Customer Identifier",
           "DOB": "Date of Birth",
           "EXP": "Expiration Date",
           "ISS": "Issue Date",
@@ -63,9 +48,7 @@
       {
         "attribute_information": {
           "Issued by": "Issuer of the MDL",
-          "Data Source": "Source of data for the MDL",
           "Name": "Name of the MDL holder",
-          "Customer Identifier": "Identifies the customer",
           "DOB": "Date of birth of the holder",
           "EXP": "Expiration date of the MDL",
           "ISS": "Issuance date for the MDL",
