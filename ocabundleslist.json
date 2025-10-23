@@ -61,5 +61,14 @@
     "type": "schema",
     "ocabundle": "OCABundles/schema/la-games/test-w3c/OCABundle.json",
     "shasum": "986a54298d7042c18578c7de59e726a6ee26572ea83e4bcf1538407b1957562a"
+  },
+  {
+    "id" : "UniversityDegreeCredential",
+    "org" : "Quartech",
+    "name"  : "Mdoc Test Credential",
+    "desc" : "A verifiable credential schema for testing the validity of mdoc implementations.",
+    "type" : "schema",
+    "ocabundle" : "OCABundles/schema/la-games/quartech-mdl/OCABundle.json",
+    "shasum": "986a54298d7042c18578c7de59e726a6ee26572ea83e4bcf1538407b1957562a"
   }
 ]
