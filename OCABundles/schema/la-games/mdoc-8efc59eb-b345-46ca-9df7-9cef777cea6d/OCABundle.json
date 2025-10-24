@@ -1,0 +1,81 @@
+[
+  {
+    "capture_base": {
+      "attributes": {
+        "degree": "Text"
+      },
+      "classification": "",
+      "digest": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+      "flagged_attributes": [
+        "degree"
+      ],
+      "type": "spec/capture_base/1.0"
+    },
+    "overlays": [
+      {
+        "attribute_character_encoding": {
+          "degree": "utf-8"
+        },
+        "capture_base": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+        "default_character_encoding": "utf-8",
+        "digest": "EFX4QcZjsqhhf75PAOoqTETph-f8umQzZ1qy2qAXC6lp",
+        "type": "spec/overlays/character_encoding/1.0"
+      },
+      {
+        "attribute_categories": [],
+        "attribute_labels": {
+          "degree": "Degree Custom String"
+        },
+        "capture_base": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+        "category_labels": {},
+        "digest": "EO4Yzvb-z2S_4RV6Y-Y_5fYrei7jzixiEH_Kk7-5_yNt",
+        "language": "en",
+        "type": "spec/overlays/label/1.0"
+      },
+      {
+        "attribute_information": {
+          "degree": "Level of academic achievement."
+        },
+        "capture_base": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+        "digest": "EF5p7J_N4eJbo_QZHakpBRq0Wu1GwPF7tLs-_-4oKEQj",
+        "language": "en",
+        "type": "spec/overlays/information/1.0"
+      },
+      {
+        "attribute_formats": {},
+        "capture_base": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+        "digest": "EKB0Y-FdhLWIYXZsojYGxmKR6oEz_vrMS8_kEpmEoXSi",
+        "type": "spec/overlays/format/1.0"
+      },
+      {
+        "attribute_standards": {},
+        "capture_base": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+        "digest": "Ec7XFxBuFTumm3S1EgGUcdVJDycjJot6Iz0qDCRMm0D8",
+        "type": "spec/overlays/standard/1.0"
+      },
+      {
+        "capture_base": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+        "description": "A mock University credential.",
+        "digest": "EIFN3WWkwDsmR0sanmrFuCOfq-K_X0OB52XoRk6wzS14",
+        "issuer": "University Custom Issuer",
+        "language": "en",
+        "name": "University Custom Credential",
+        "type": "spec/overlays/meta/1.0"
+      },
+      {
+        "capture_base": "",
+        "type": "",
+        "digest": "",
+        "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/post_graduate_diploma/logo.png",
+        "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/post_graduate_diploma/background_slice.jpg",
+        "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/post_graduate_diploma/background_image.jpg",
+        "primary_background_color": "#32674E",
+        "secondary_background_color": "",
+        "primary_attribute": "",
+        "secondary_attribute": "",
+        "issued_date_attribute": "",
+        "expiry_date_attribute": ""
+      }
+    ]
+  }
+]

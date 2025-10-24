@@ -42,5 +42,9 @@
   "mdoc-f8a64e48-3143-4bc5-803b-435dceb29232" : {
     "path" : "OCABundles/schema/la-games/mdoc-f8a64e48-3143-4bc5-803b-435dceb29232/OCABundle.json",
     "sha256" : "bb5930b040dcbadb5d7268a839f7ebc8047d944c17bd3e73efd49f196ba43aa8"
+  },
+  "mdoc-8efc59eb-b345-46ca-9df7-9cef777cea6d" : {
+    "path" : "OCABundles/schema/la-games/mdoc-8efc59eb-b345-46ca-9df7-9cef777cea6d/OCABundle.json",
+    "sha256" : "a6c5a005517f3a880094e510d9dddceed424a5fed1ac25d993e2ea730dba6aae"
   }
 }
