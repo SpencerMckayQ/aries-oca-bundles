@@ -63,9 +63,9 @@
         "type": "spec/overlays/meta/1.0"
       },
       {
-        "capture_base": "",
-        "type": "",
-        "digest": "",
+        "capture_base": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+        "type": "aries/overlays/branding/1.0",
+        "digest": "Ec7XFxBuFTumm3S1EgGUcdVJDycjJot6Iz0qDCRMm0D8",
         "logo": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/post_graduate_diploma/logo.png",
         "background_image_slice": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/post_graduate_diploma/background_slice.jpg",
         "background_image": "https://raw.githubusercontent.com/credebl/credebl-aries-oca-bundles/release/OCABundles/schema/credebl/post_graduate_diploma/background_image.jpg",

@@ -87,6 +87,6 @@
     "desc" : "A verifiable credential schema for testing the validity of mdoc implementations.",
     "type" : "schema",
     "ocabundle" : "OCABundles/schema/la-games/UniversityDegreeCredential-mdoc/OCABundle.json",
-    "shasum": "6b4cfe270cd3ba8c1321b160357f2e5c8becf0a8665cfa0f8ad92c1bc04a55f9"
+    "shasum": "8aa57c4ad717c5b691e1724f17e99fb1402a1f8bb64a7215df540586701891fc"
   }
 ]
