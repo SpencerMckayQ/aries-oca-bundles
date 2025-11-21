@@ -38,5 +38,9 @@
   "w3ctestcredential": {
     "path": "OCABundles/schema/la-games/test-w3c/OCABundle.json",
     "sha256": "5870e68ba9b7c29c5c3ad2eb6071d3a2b03d3231057b999e3a6d0c1e38f9c668"
+  },
+  "QuartechEmployeeIdCredential": {
+    "path": "OCABundles/schema/la-games/california-mdl/OCABundle.json",
+    "sha256": "baed12221463662b0eaa9880cd7cb988f6fe68e235a29aef77d8cb5b0fbc9151"
   }
 }
