@@ -77,9 +77,9 @@
         "capture_base": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
         "description": "",
         "digest": "EIFN3WWkwDsmR0sanmrFuCOfq-K_X0OB52XoRk6wzS14",
-        "issuer": "TESTING OUT HOW THE CREDENTIAL WILL LOOK IN THE WALLET WITH A VERY LONG NAME TO DECIDE HOW TO HANDLE IT IN THE CLOUD APP THANKS",
+        "issuer": "Quartech",
         "language": "en",
-        "name": "TESTING OUT HOW THE CREDENTIAL WILL LOOK IN THE WALLET WITH A VERY LONG NAME TO DECIDE HOW TO HANDLE IT IN THE CLOUD APP THANKS",
+        "name": "Quartech Employee Id",
         "type": "spec/overlays/meta/1.0"
       },
       {
