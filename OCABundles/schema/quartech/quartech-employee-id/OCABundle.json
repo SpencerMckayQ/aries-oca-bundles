@@ -4,7 +4,7 @@
       "attributes": {
         "firstName": "Text",
         "lastName": "Text",
-        "hireDate": "DateTime",
+        "hireDate": "Date",
         "Photo": "Image",
         "role": "Text"
       },
@@ -79,7 +79,7 @@
         "digest": "EIFN3WWkwDsmR0sanmrFuCOfq-K_X0OB52XoRk6wzS14",
         "issuer": "Quartech",
         "language": "en",
-        "name": "Quartech Employee Id",
+        "name": "TESTING OUT HOW THE CREDENTIAL WILL LOOK IN THE WALLET WITH A VERY LONG NAME TO DECIDE HOW TO HANDLE IT IN THE CLOUD APP THANKS",
         "type": "spec/overlays/meta/1.0"
       },
       {
