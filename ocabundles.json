@@ -1,0 +1,46 @@
+{
+  "TZdSc1K7VBBCLX2JKXPrTN:2:california-dmv-mdl:1.5.1": {
+    "path": "OCABundles/schema/la-games/california-mdl/OCABundle.json",
+    "sha256": "baed12221463662b0eaa9880cd7cb988f6fe68e235a29aef77d8cb5b0fbc9151"
+  },
+  "TZdSc1K7VBBCLX2JKXPrTN:2:la-metro-volunteer-id:1.5.2": {
+    "path": "OCABundles/schema/la-games/metro-id/OCABundle.json",
+    "sha256": "986a54298d7042c18578c7de59e726a6ee26572ea83e4bcf1538407b1957562a"
+  },
+  "TZdSc1K7VBBCLX2JKXPrTN:2:california-dmv-mdl:1.5": {
+    "path": "OCABundles/schema/la-games/california-mdl/OCABundle.json",
+    "sha256": "baed12221463662b0eaa9880cd7cb988f6fe68e235a29aef77d8cb5b0fbc9151"
+  },
+  "TZdSc1K7VBBCLX2JKXPrTN:2:la-metro-volunteer-id:1.5": {
+    "path": "OCABundles/schema/la-games/metro-id/OCABundle.json",
+    "sha256": "986a54298d7042c18578c7de59e726a6ee26572ea83e4bcf1538407b1957562a"
+  },
+  "TZdSc1K7VBBCLX2JKXPrTN:2:california-dmv-mdl:1.4.2": {
+    "path": "OCABundles/schema/la-games/california-mdl/OCABundle.json",
+    "sha256": "baed12221463662b0eaa9880cd7cb988f6fe68e235a29aef77d8cb5b0fbc9151"
+  },
+  "TZdSc1K7VBBCLX2JKXPrTN:2:la-metro-volunteer-id:1.4.2": {
+    "path": "OCABundles/schema/la-games/metro-id/OCABundle.json",
+    "sha256": "986a54298d7042c18578c7de59e726a6ee26572ea83e4bcf1538407b1957562a"
+  },
+  "TZdSc1K7VBBCLX2JKXPrTN:2:california-dmv-mdl:1.4.4": {
+    "path": "OCABundles/schema/la-games/california-mdl/OCABundle.json",
+    "sha256": "baed12221463662b0eaa9880cd7cb988f6fe68e235a29aef77d8cb5b0fbc9151"
+  },
+  "TZdSc1K7VBBCLX2JKXPrTN:2:la-metro-volunteer-id:1.4.4": {
+    "path": "OCABundles/schema/la-games/metro-id/OCABundle.json",
+    "sha256": "986a54298d7042c18578c7de59e726a6ee26572ea83e4bcf1538407b1957562a"
+  },
+  "org.iso.18013.5.1.mDL": {
+    "path": "OCABundles/schema/la-games/test-mdl/OCABundle.json",
+    "sha256": "5a6bf2769cf564570c2cf6370cca0925da61925868783c62977722dce7f9c9cd"
+  },
+  "w3ctestcredential": {
+    "path": "OCABundles/schema/la-games/test-w3c/OCABundle.json",
+    "sha256": "5870e68ba9b7c29c5c3ad2eb6071d3a2b03d3231057b999e3a6d0c1e38f9c668"
+  },
+  "QuartechEmployeeIdCredential": {
+    "path": "OCABundles/schema/quartech/quartech-employee-id/OCABundle.json",
+    "sha256": "599d97906e445993d6874c0958dcafc624cc740ae9b4bd184d9e6942cd885434"
+  }
+}

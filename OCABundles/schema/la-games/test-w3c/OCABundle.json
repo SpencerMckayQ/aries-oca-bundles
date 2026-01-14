@@ -1,0 +1,79 @@
+[
+  {
+    "capture_base": {
+      "attributes": {
+        "name": "Text"
+      },
+      "classification": "",
+      "digest": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+      "flagged_attributes": ["name"],
+      "type": "spec/capture_base/1.0"
+    },
+    "overlays": [
+      {
+        "attribute_character_encoding": {
+          "name": "utf-8"
+        },
+        "capture_base": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+        "default_character_encoding": "utf-8",
+        "digest": "EFX4QcZjsqhhf75PAOoqTETph-f8umQzZ1qy2qAXC6lp",
+        "type": "spec/overlays/character_encoding/1.0"
+      },
+      {
+        "attribute_categories": [],
+        "attribute_labels": {
+          "name": "Given Name"
+        },
+        "capture_base": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+        "category_labels": {},
+        "digest": "EO4Yzvb-z2S_4RV6Y-Y_5fYrei7jzixiEH_Kk7-5_yNt",
+        "language": "en",
+        "type": "spec/overlays/label/1.0"
+      },
+      {
+        "attribute_information": {
+          "name": "First name of the holder"
+        },
+        "capture_base": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+        "digest": "EF5p7J_N4eJbo_QZHakpBRq0Wu1GwPF7tLs-_-4oKEQj",
+        "language": "en",
+        "type": "spec/overlays/information/1.0"
+      },
+      {
+        "attribute_formats": {},
+        "capture_base": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+        "digest": "EKB0Y-FdhLWIYXZsojYGxmKR6oEz_vrMS8_kEpmEoXSi",
+        "type": "spec/overlays/format/1.0"
+      },
+      {
+        "attribute_standards": {},
+        "capture_base": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+        "digest": "Ec7XFxBuFTumm3S1EgGUcdVJDycjJot6Iz0qDCRMm0D8",
+        "type": "spec/overlays/standard/1.0"
+      },
+      {
+        "capture_base": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+        "description": "A mock California mobile driver's licence",
+        "digest": "EIFN3WWkwDsmR0sanmrFuCOfq-K_X0OB52XoRk6wzS14",
+        "issuer": "Traction Issuer",
+        "language": "en",
+        "name": "W3c Test Credential",
+        "type": "spec/overlays/meta/1.0"
+      },
+      {
+        "capture_base": "EO-jq9sXmeAJZlVjvjcDJVODYEwVS0xZJ0r7uWg6N2yC",
+        "type": "aries/overlays/branding/1.0",
+        "digest": "Ec7XFxBuFTumm3S1EgGUcdVJDycjJot6Iz0qDCRMm0D8",
+        "logo": "https://yt3.googleusercontent.com/M-0pOyPEBMf3lI60gW-BKwc5fz-AfIBwBs25nR8uIW2wa1XIAexxtzugwxisxDGBfeKyVoDFtQ=s900-c-k-c0x00ffffff-no-rj",
+        "background_image_slice": "",
+        "background_image": "",
+        "primary_background_color": "rgb(75, 0, 255)",
+        "secondary_background_color": "rgb(182, 55, 214)",
+        "primary_attribute": "name",
+        "secondary_attribute": "",
+        "issued_date_attribute": "",
+        "expiry_date_attribute": ""
+      }
+    ]
+  }
+]
